@@ -33,7 +33,7 @@ It required careful planning and strategic thinking to ensure a scalable and eff
 
 The experience of overseeing the entire development process and tackling multifaceted technical and strategic challenges has greatly enhanced my skills as a full-stack developer and entrepreneur.
 
-## Backend Technologies used:
+### Backend Technologies used:
 - Python
 - Django
 - Django Rest Framework
@@ -46,7 +46,7 @@ The experience of overseeing the entire development process and tackling multifa
 - Google SQL
 - Google Build
 
-## Front-end Technologies used:
+### Front-end Technologies used:
 - Javascript
 - React
 - Netlify
@@ -65,7 +65,7 @@ Our platform successfully connected over 1,000 active sales representatives, opt
 
 It was an incredible experience leveraging my programming expertise to drive growth and success for our clients in the ever-evolving landscape of the industry.
 
-## Technologies used:
+### Technologies used:
 - Digibee (Low code platform)
 - Google Big Query
 - Javascript
@@ -76,6 +76,6 @@ It was an incredible experience leveraging my programming expertise to drive gro
 - Apache JMeter (Api Performance Tests)
 - SalesForce (REST API)
 
-Highlight feature:
+### Highlight feature:
 
-- Triggering campaigns upon adding products to the shopping cart. I contributed to the architecture and construction of a framework that leveraged SalesForce. This involved defining the minimum requirements for campaign activation on the front-end. Throughout the development process, various integrations were utilized, including SalesForce, Postgre, Digibee, Google Cloud Tasks, and Firestore.
+Triggering campaigns upon adding products to the shopping cart. I contributed to the architecture and construction of a framework that leveraged SalesForce. This involved defining the minimum requirements for campaign activation on the front-end. Throughout the development process, various integrations were utilized, including SalesForce, Postgre, Digibee, Google Cloud Tasks, and Firestore.
